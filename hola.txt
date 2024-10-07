@@ -1,4 +1,8 @@
 hola github, te estoy subiendo un archivo
 hola aqui agrego mas contenido
 
+<<<<<<< HEAD
 Hola agrego mas contenido aqui de la rama master
+=======
+Hola estoy en la ramaB
+>>>>>>> RamaB
